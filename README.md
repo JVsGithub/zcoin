@@ -1,10 +1,3 @@
-Zcoin integration/staging tree
-================================
-
-http://www.coingen.io
-
-Copyright (c) 2009-2013 Bitcoin Developers
-
 What is Zcoin?
 ----------------
 
@@ -14,8 +7,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Zcoin is also the name of the open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Zcoin client software, see http://www.coingen.io.
 
 License
 -------
